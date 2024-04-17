@@ -2,7 +2,7 @@ This Apk file - current app for service https://smsnotif.com
 
 
 
-To be able to send and receive messages in bulk, the user needs to link their Android devices to the SmsNotif.com service. This can be done by logging into the web panel of the SmsNotif.com service, in the «Android» menu, by clicking on the «Add device» button. After that, the user will be prompted to download the application by scanning the QR Code with a link to the application file, install the application and associate the application with the SmsNotif.com service. This link is what you need: https://app.smsnotif.com/dashboard/android
+To be able to send and receive messages in bulk, the user needs to link their Android devices to the SmsNotif.com service. This can be done by logging into the web panel of the SmsNotif.com service, in the «Android» menu, by clicking on the «Add device» button. After that, the user will be prompted to download the application by scanning the QR Code with a link to the application file, install the application and associate the application with the SmsNotif.com service. This link is what you need: https://app.smsnotif.com/dashboard/hosts/android
 
 Supported Android versions
 
